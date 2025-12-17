@@ -1,4 +1,4 @@
-"# Prueba Git" 
+#Prueba Git
 Aprendiendo Git y GitHub con VS Code
 
 ## Tarea T-1
